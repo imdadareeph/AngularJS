@@ -1,0 +1,6 @@
+http://jasonwatmore.com/post/2014/05/26/AngularJS-Basic-HTTP-Authentication-Example.aspx
+
+http://javahonk.com/spring-mvc-angularjs-integration/
+
+http://javahonk.com/?s=angularjs+post&submit=Search
+
